@@ -1,0 +1,9 @@
+
+.signupbtn {
+    margin-left: 5%;
+    background-color: green;
+    border-style: none;
+    color: white;
+    font-size: 20px;
+    width: 10rem;
+}
